@@ -23,6 +23,6 @@ export default function UseData() {
 
 
     }
-    console.log(audios);
+  
   return {audios}
 }
