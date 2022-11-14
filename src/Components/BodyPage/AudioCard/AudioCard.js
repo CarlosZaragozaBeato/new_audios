@@ -22,7 +22,7 @@ export default function AudioCard() {
     }, timer);
 
 
-    console.log(time)
+    console.log(timer)
 
   },[time])
 
