@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/new_audios/static/css/main.edb18f53.css",
-    "main.js": "/new_audios/static/js/main.93354757.js",
+    "main.js": "/new_audios/static/js/main.fcc4515b.js",
     "static/media/video.mp4": "/new_audios/static/media/video.4aaa7e46439b2aac8e61.mp4",
     "static/media/bgDesktop.jpg": "/new_audios/static/media/bgDesktop.0b7507888bd80067c206.jpg",
     "index.html": "/new_audios/index.html",
     "main.edb18f53.css.map": "/new_audios/static/css/main.edb18f53.css.map",
-    "main.93354757.js.map": "/new_audios/static/js/main.93354757.js.map"
+    "main.fcc4515b.js.map": "/new_audios/static/js/main.fcc4515b.js.map"
   },
   "entrypoints": [
     "static/css/main.edb18f53.css",
-    "static/js/main.93354757.js"
+    "static/js/main.fcc4515b.js"
   ]
 }
